@@ -1,0 +1,26 @@
+section {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+   display: flex;
+   font-weight: 100px;
+}
+
+image {
+    height: 20px;
+}
+
+header {
+    background-color: rgb(115, 115, 116);
+    color: aliceblue;
+    display: flex;
+    padding: 2%;
+    font-size: large;
+}
+
+li { 
+    list-style: none;
+}
+
+ul {
+    font-weight: 200px;
+}
